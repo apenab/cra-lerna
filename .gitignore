@@ -1,0 +1,17 @@
+.coverage
+.DS_Store
+.env
+.idea/
+.terraform/
+.venv/
+.vscode/
+*.env
+*.pyc
+*.tfstate.backup
+dist/
+docs/
+htmlcov/
+node_modules/
+storage/
+webpack-stats.json
+yarn-error.log
